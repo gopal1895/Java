@@ -38,7 +38,7 @@ public class Q10 {
 			}
 		}
 		System.out.println("Old Array Length "+a.length);
-		System.out.println("New Array: "+Arrays.toString(na));
+		System.out.println("New Array Is: "+Arrays.toString(na));
 		System.out.println("New Array Length: "+na.length);
 	}
 
