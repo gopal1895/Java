@@ -1,7 +1,5 @@
 package array;
-
 public class Q9 {
-
 	public static void main(String[] args) {
 	//Write a program to find maximum element in a matrix.
 		int[][] a= {
@@ -27,7 +25,7 @@ public class Q9 {
 				}
 			}
 		}
-		System.out.println("Max element :"+maxval);
+		System.out.println("Maximum element :"+maxval);
 
 	}
 
