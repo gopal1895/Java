@@ -29,7 +29,5 @@ public class Q11 {
 		}
 		System.out.println(Arrays.toString(en));
 		System.out.println(Arrays.toString(od));
-
 	}
-
 }
