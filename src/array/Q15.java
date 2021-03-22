@@ -22,7 +22,7 @@ public class Q15 {
 			if(i==a.length-1)
 				ln = a[i];
 		}
-		System.out.println("Diffrent between Smallest values and Larges value: "+ (ln-sn));
+		System.out.println("Diffrent between Smallest values and Largest value: "+ (ln-sn));
 	}
 
 }
