@@ -1,7 +1,6 @@
 package array;
 
 public class Q14 {
-
 	public static void main(String[] args) {
 	//Write a program to print all the LEADERS in the array.
 	//Note: An element is leader if it is greater than all the elements to its right side
